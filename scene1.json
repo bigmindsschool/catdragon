@@ -29,65 +29,6 @@
       "showGDevelopSplash": false
     },
     "extensionProperties": [],
-    "extensions": [
-      {
-        "name": "BuiltinObject"
-      },
-      {
-        "name": "BuiltinAudio"
-      },
-      {
-        "name": "BuiltinVariables"
-      },
-      {
-        "name": "BuiltinTime"
-      },
-      {
-        "name": "BuiltinMouse"
-      },
-      {
-        "name": "BuiltinKeyboard"
-      },
-      {
-        "name": "BuiltinJoystick"
-      },
-      {
-        "name": "BuiltinCamera"
-      },
-      {
-        "name": "BuiltinWindow"
-      },
-      {
-        "name": "BuiltinFile"
-      },
-      {
-        "name": "BuiltinNetwork"
-      },
-      {
-        "name": "BuiltinScene"
-      },
-      {
-        "name": "BuiltinAdvanced"
-      },
-      {
-        "name": "Sprite"
-      },
-      {
-        "name": "BuiltinCommonInstructions"
-      },
-      {
-        "name": "BuiltinCommonConversions"
-      },
-      {
-        "name": "BuiltinStringInstructions"
-      },
-      {
-        "name": "BuiltinMathematicalTools"
-      },
-      {
-        "name": "BuiltinExternalLayouts"
-      }
-    ],
     "platforms": [
       {
         "name": "GDevelop JS platform"
@@ -456,6 +397,105 @@
         "name": "Tiger-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Tiger-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tiger-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger_final1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger_final1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger_final2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger_final2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger_final3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger_final3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger_final4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger_final4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "l0_sprite_tiger_final5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "l0_sprite_tiger_final5.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -519,8 +559,8 @@
           "name": "Tiger",
           "persistentUuid": "16a6fd06-7793-4e75-83b8-183fde00ca98",
           "width": 98,
-          "x": 799,
-          "y": 482,
+          "x": 355,
+          "y": 473,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -535,8 +575,8 @@
           "name": "Left",
           "persistentUuid": "9b3692f0-aeb2-4f55-a9c2-eb565c0d427e",
           "width": 42,
-          "x": 555,
-          "y": 475,
+          "x": 6,
+          "y": 478,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -551,8 +591,8 @@
           "name": "Right",
           "persistentUuid": "be0488bd-3b2f-4c11-9819-ab1abd4b2fbb",
           "width": 42,
-          "x": 1084,
-          "y": 484,
+          "x": 593,
+          "y": 485,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -567,8 +607,8 @@
           "name": "PlayerHitBox",
           "persistentUuid": "e19fba6a-1283-463a-9278-6df9b22b8659",
           "width": 143,
-          "x": 33,
-          "y": 433,
+          "x": -191,
+          "y": 424,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -583,9 +623,25 @@
           "name": "Character",
           "persistentUuid": "c13046bd-2914-4eb0-92d9-d142c6ccf71c",
           "width": 166,
-          "x": 20,
-          "y": 442,
+          "x": -212,
+          "y": 440,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 63,
+          "layer": "",
+          "locked": false,
+          "name": "TigerHitbox",
+          "persistentUuid": "659a6e5d-5697-444f-8ff9-3ae443b1600b",
+          "width": 56,
+          "x": 215,
+          "y": 507,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1012,16 +1068,84 @@
               ]
             },
             {
-              "name": "jump",
+              "name": "jumping",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.07999999821186066,
+                  "timeBetweenFrames": 0.08330000191926956,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Tiger-1.png",
+                      "image": "l0_sprite_tiger_final1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "l0_sprite_tiger_final2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "l0_sprite_tiger_final3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "l0_sprite_tiger_final4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "l0_sprite_tiger_final5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1158,15 +1282,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "NewObject",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": []
         }
       ],
       "events": [
@@ -1553,6 +1668,26 @@
                 "1"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Right"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -1692,14 +1827,6 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -1707,8 +1834,8 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Character",
-                "Left",
+                "TigerHitbox",
+                "Tiger",
                 "",
                 "",
                 ""
@@ -1720,45 +1847,11 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Arreter"
-              },
-              "parameters": [
-                "Tiger"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "AddForceXY"
-              },
-              "parameters": [
-                "Tiger",
-                "-100",
-                "0",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "SetAnimationName"
               },
               "parameters": [
                 "Tiger",
-                "\"moving\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Tiger",
-                "no"
+                "\"jumping\""
               ],
               "subInstructions": []
             }
